@@ -1,6 +1,7 @@
 
 Olá! Eu sou o Thiago Baltazar👋
 
+<br>
   <div> 
   <a href="https://instagram.com/thiago_marinelli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/tbaltazar5" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -8,12 +9,17 @@ Olá! Eu sou o Thiago Baltazar👋
   <a href="http://linkedin.com/in/thiago-antonio-marinelli-baltazar-2033b945" target="_blank" marin-bot><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  
+  <br>
 
-- 🔭Carreira em evolução na área de Tecnologia. Profissionalmente estou em transição de carreira, busco oportunidades na área de tecnologia como Front-End, Back-End, Estágio..
+- 🔭Carreira em evolução na área de Tecnologia em desenvolvimento, busco oportunidades na área de tecnologia como Front-End, Back-End, Estágio..
 - 🌱 Estudando Engenharia da Computação, também possuo conhecimentos em HTML5, CSS3, JS, Python ...
 - 📫 📫Entre em contato comigo em thiagoantonio.marinelli@outlook.com
 
+![age](https://img.shields.io/badge/Idade-36-purple)
+![focus](https://img.shields.io/badge/Foco-Desenvolvimento%20FullStack-orange)
+![living](https://img.shields.io/badge/País-Brasil-informational)
+
+<br>
 
 <div align="center">
   <a href="https://github.com/tbaltazar">
