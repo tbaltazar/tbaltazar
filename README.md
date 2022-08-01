@@ -11,7 +11,7 @@ Olá! Eu sou o Thiago Baltazar👋
   
   <br>
 
-- 🔭Carreira em evolução na área de Tecnologia em desenvolvimento, busco oportunidades na área de tecnologia como Front-End, Back-End, Estágio..
+- 🔭Carreira em evolução na área de Tecnologia, busco oportunidades na área de tecnologia como Front-End, Back-End, Estágio..
 - 🌱 Estudando Engenharia da Computação, também possuo conhecimentos em HTML5, CSS3, JS, Python ...
 - 📫 📫Entre em contato comigo em thiagoantonio.marinelli@outlook.com
 
